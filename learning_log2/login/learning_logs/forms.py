@@ -1,3 +1,5 @@
+from __future__ import unicode_literals
+# from builtins import str
 from django import forms
 from .models import Topic, Entry
 
